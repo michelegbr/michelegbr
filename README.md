@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Add your pixel GIF here -->
-  <img src="(https://i.pinimg.com/originals/84/ae/ae/84aeaec6b6e64730b07610a8474022ca.gif)" alt="pixel-gif" width="120"/>
+  <img src="https://i.pinimg.com/originals/84/ae/ae/84aeaec6b6e64730b07610a8474022ca.gif" alt="pixel-gif" width="120"/>
 </p>
 
 ---
