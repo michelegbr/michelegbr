@@ -2,8 +2,9 @@
 <p align="center">Computer Science Student • Front-End & UI/UX Enthusiast</p>
 
 <p align="center">
-  <!-- Add your pixel GIF here -->
-  <img src="https://pin.it/1OdIvgmlw" alt="pixel-gif" width="120"/>
+
+![pixel](https://github.com/user-attachments/assets/50e607e2-bbf2-4841-bb4c-27d416cea822)
+
 </p>
 
 ---
@@ -16,22 +17,23 @@ Curious about how design and code work together to solve real-world problems and
 
 ## 🚀 What I Do
 - 🎨 Designing clean & intuitive user interfaces  
-- 💻 Coding front-end projects with Next.js, HTML/CSS/JS  
-- 📱 Exploring Android development  
-- 🔍 Practicing UX research and usability testing  
-- 🤝 Collaborating in community & event creative teams  
+- 💻 Coding front-end projects with Next.js, React 
+- 📱 Exploring Android development
+- 🔍 Practicing UX research and usability testing
+- 🤝 Collaborating in community & event creative teams
 
 ---
 
 ## 🛠 Tech Stack & Tools
 **Languages:**  
-C • Python • Java • JavaScript
+
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,js,java)](https://github.com/syvixor/skills-icons)
 
 **Frameworks & Platform:**  
-Next.js • Android Studio  
+[![Skills](https://skills.syvixor.com/api/icons?i=nextjs,androidstudio)](https://github.com/syvixor/skills-icons)
 
 **Tools:**  
-VS Code • Git & GitHub • Figma • Adobe Photoshop • Adobe Illustrator  
+[![Skills](https://skills.syvixor.com/api/icons?i=vscode,git,github,figma,adobephotoshop,adobeillustrator,canva)](https://github.com/syvixor/skills-icons)
 
 **Interests:**  
 Front-End Engineering • UI/UX • Human–Computer Interaction • AI • Web Technologies
@@ -39,7 +41,7 @@ Front-End Engineering • UI/UX • Human–Computer Interaction • AI • Web 
 ---
 
 ## 🔗 Connect With Me
-<a href="https://www.linkedin.com/in/michele-gabriela-201483295">LinkedIn</a>  
-📧 **michelegabriela99@gmail.com**
+<a href="https://www.linkedin.com/in/michele-gabriela-201483295"><img src="https://skills.syvixor.com/api/icons?i=linkedin" /></a>
+<a mailto="michelegabriela99@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail"/></a>
 
 
